@@ -54,13 +54,14 @@ Mapp för skisser gjorda på tex. fysiskt papper.
 #### Export/
 Map för färdig exporterade .PDF filer för utskrift och visning
 
-## Spara ändringar
-(Mappers fil format `.ods` går ej att "merge":as mha. GIT)
-
 ## Export:
-
-BUG
-Markera en template,
+Skriv ut PDF. Vid utskrift kryssa i `Show templates`, detta gör att alla lager kommer med. <br>
+Om rutan ej syns gå då in i `Template -> Template Setup Window` och markera ett lager därefter pröva igen.
 
 
 ## Karta i mobilen
+Mapper finns även för Android telefoner. Då kan mobilens GPS användas för att tex. stega på kartan. För att enkelt komma igång:
+
+1. Ladda ner Mapper `.APK`-filen från mobilen, installera.
+2. Skicka kartorna till mobilen, förslagsvis använd Google Drive elle Dropbox för mobilen.
+3. Öppna appen, öppna kartor.
