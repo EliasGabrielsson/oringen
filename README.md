@@ -1,10 +1,11 @@
 # Kartbaserad information Oringen 2017
-Detta git repo har skapats i syfte att på ett GIS baserat sätt sammanställa information.
-Det finns många beroenden i projektet som är avhängt fysisk position. Tex. Hur långa kablar behöver dras?
-Vart ska vatten finnas? Vart kommer deltagare finnas?
+Här samlas information som kan representeras grafiskt på en karta för oringen värmland. Det finns många beroenden i projektet som är avhängt fysisk position. Detta tekniska verktyg ska underlätta arbetet med dessa utmaningar.
 
-Syftet med informationen här är att stödja detta beslutsfattande med ett grafiskt verktyg. (GIS)
-Informationen hanteras mha. GIT vilket är ett versionshanterings verktyg vilket möjliggör sammarbete med samma filer på ett smartare sätt än tex. Dropbox motsv. *Filerna går dock att "laddas ner" på vanligt sätt.*
+_Tex. Hur långa kablar behöver dras?_ <br>
+_Vart ska vatten finnas?_ <br>
+_Hur långt kommer deltagarna gå?_ <br>
+
+Informationen hanteras mha. programvaran GIT vilket är ett versionshanterings verktyg vilket hanterar konflikter och olika versioner smidigare än tex. Dropbox. *Filerna går dock att "laddas ner" på vanligt sätt med*
 
 För en introduktion för att komma igång med git vilket kräver lite dator- / system-vana. [Kom igång guide](https://try.github.io/levels/1/challenges/1)
 
