@@ -18,12 +18,18 @@ https://try.github.io/levels/1/challenges/1
 
 ## Fil konventioner (Hur vi döper filer)
 
-#### Grundkarta
+#### Map_Grundkarta
+Orienteringskarta över tävlingsområdet.
+
+#### Map_Bakgrund
+Förenklad grundkarta i syfte att ge bra bakgrund över arenorna. Beskuren att endast avse arena området.
 
 #### Exportmappen:
 
-
-
 (Mappers fil format `.ods` går ej att "merge":as mha. GIT)
 
+## Export:
 
+
+
+## Karta i mobilen
