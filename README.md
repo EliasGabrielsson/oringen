@@ -31,6 +31,9 @@ För att visa flera ytterligare lager:
 #### Map_Grundkarta_Namn.ocd
 Orienteringskarta över tävlingsområdet.
 
+#### Map_Satellite_Namn.tiff
+Satellitbild över tävlingsområdet. 
+
 #### Map_Bakgrund_Namn.ocd
 Förenklad grundkarta i syfte att ge bra bakgrund över arenorna. <br> Beskuren att endast avse arena området.
 
