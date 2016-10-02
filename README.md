@@ -32,7 +32,7 @@ För att visa flera ytterligare lager:
 Orienteringskarta över tävlingsområdet.
 
 #### Map_Satellite_Namn.tiff
-Satellitbild över tävlingsområdet. 
+Satellitbild över tävlingsområdet.
 
 #### Map_Bakgrund_Namn.ocd
 Förenklad grundkarta i syfte att ge bra bakgrund över arenorna. <br> Beskuren att endast avse arena området.
@@ -43,6 +43,10 @@ Kompletera med template: `Map_Bakgrund` för bakgrund.
 
 #### Map_Network_Namn.ocd
 Karta för att visa kabeldragning av nätverksutrustning.
+
+#### Symbol_network.ocd
+Standard iconer för nätverkslagret.
+Behöver endast nyttjas för nya filer och uppdatering av ikoner på nätverkslagret. <br> Öppna `Map_Network_Namn.ocd` därefter `Symbol > Replace Symbol set..`, välj `Symbol_network.ocd` slutligen OK.
 
 #### [Funktionsnummer.md](../Funktionsnummer.md)
 Översättnings lista för alla nummer på arena kartorna. <br>
