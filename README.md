@@ -18,7 +18,7 @@ b) Använd git kör: `git clone https://github.com/EliasGabrielsson/oringen.git`
 3. Öppna Mapper, välj önskad arena tex. `Map_Arena_Boda`.
 
 ## Filer
-Informationen är främst uppdelad i ett antal kartfiler (`.ocd`) där varje del kan ses som ett lager.
+Informationen är främst uppdelad i ett antal kartfiler (`.omap`) där varje del kan ses som ett lager.
 När en kartfil är öppnad kan andra kartfiler (lager) läggs till för visning tillsammans. Observera att endast den ursprungligt öppnade kartfilen kan redigeras.
 
 För att visa flera ytterligare lager:
@@ -28,25 +28,31 @@ För att visa flera ytterligare lager:
 
 ### Typer:
 
-#### Map_Grundkarta_Namn.ocd
+#### Map_Grundkarta_Namn.omap
 Orienteringskarta över tävlingsområdet.
 
 #### Map_Satellite_Namn.tiff
 Satellitbild över tävlingsområdet.
 
-#### Map_Bakgrund_Namn.ocd
+#### Map_Fastighetskarta_Namn.tiff
+Urklipp från fastighetskartan på berört område.
+
+#### Map_Bakgrund_Namn.omap
 Förenklad grundkarta i syfte att ge bra bakgrund över arenorna. <br> Beskuren att endast avse arena området.
 
-#### Map_Arena_Namn.ocd
+#### Map_Arena_Namn.omap
 Huvudkarta för placering av materiel och funktioner. <br>
 Kompletera med template: `Map_Bakgrund` för bakgrund.
 
-#### Map_Network_Namn.ocd
+#### Map_Camping_OSR.omap
+Huvudkarta för planering av campingplatser.
+
+#### Map_Network_Namn.omap
 Karta för att visa kabeldragning av nätverksutrustning.
 
-#### Symbol_network.ocd
+#### Symbol_network.omap
 Standard iconer för nätverkslagret.
-Behöver endast nyttjas för nya filer och uppdatering av ikoner på nätverkslagret. <br> Öppna `Map_Network_Namn.ocd` därefter `Symbol > Replace Symbol set..`, välj `Symbol_network.ocd` slutligen OK.
+Behöver endast nyttjas för nya filer och uppdatering av ikoner på nätverkslagret. <br> Öppna `Map_Network_Namn.omap` därefter `Symbol > Replace Symbol set..`, välj `Symbol_network.omap` slutligen OK.
 
 #### [Funktionsnummer.md](../Funktionsnummer.md)
 Översättnings lista för alla nummer på arena kartorna. <br>
