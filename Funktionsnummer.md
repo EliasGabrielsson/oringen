@@ -73,3 +73,4 @@ f)	Miljöstation Kiosker: Brännbart 1x370L, Wellpap 1x660L, Matavfall 1x190L <b
 62.	Miljöcentral
 63.	Parkering
 64.	Stolpe in
+65.	Teamsportia portal
