@@ -75,3 +75,4 @@ f)	Miljöstation Kiosker: Brännbart 1x370L, Wellpap 1x660L, Matavfall 1x190L <b
 64.	Stolpe in
 65.	Teamsportia portal
 66. Arla
+67. Direktanmälan Open MTBO
